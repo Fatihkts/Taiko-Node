@@ -5,7 +5,7 @@
 
 <h1 align="center"> Donanım </h1>
 
-> Hetzner'i 3$ sunucuyu kullandım. 
+> Hetzner
 
 ```
 2 CPU 
